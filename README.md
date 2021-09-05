@@ -4,3 +4,5 @@
 A game launcher and custom server provider for Driver San Francisco
 
 [Download](https://github.com/ReHamster/Alcatraz/releases)
+
+Any issues? Please report [here](https://github.com/ReHamster/Alcatraz/issues)
